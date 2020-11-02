@@ -1,1 +1,18 @@
-/* No CSS */
+.header {
+  background: #fff;
+}
+
+.header__left, .header__right {
+  float: left;
+  width: 50%;
+}
+
+footer {
+  background: #414141;
+}
+
+.socials__link {
+  width: 32px;
+  height: 32px;
+  display: block;
+}

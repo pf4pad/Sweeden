@@ -7,27 +7,3 @@ footer {
   height: 32px;
   display: block;
 }
-
-.socials__link_vk {
-  background: url("/img/icons/vk.png") 0 0 no-repeat;
-}
-
-.socials__link_vk:hover {
-  background: url("/img/icons/vk.png") 0 0 no-repeat;
-}
-
-.socials__link_fb {
-  background: url("/img/icons/fb.png") 0 0 no-repeat;
-}
-
-.socials__link_fb:hover {
-  background: url("/img/icons/fb.png") 0 0 no-repeat;
-}
-
-.socials__link_tw {
-  background: url("/img/icons/tw.png") 0 0 no-repeat;
-}
-
-.socials__link_tw:hover {
-  background: url("/img/icons/tw.png") 0 0 no-repeat;
-}

@@ -1,1 +1,8 @@
-/* No CSS */
+.header {
+  background: #fff;
+}
+
+.header__left, .header__right {
+  float: left;
+  width: 50%;
+}
