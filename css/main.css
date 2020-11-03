@@ -25,13 +25,31 @@
   margin: 0;
 }
 
-.header-link {
+.header-menu-link {
   text-decoration: none;
-  color: #FAFAFA;
+  color: #000000;
   justify-content: start;
   margin-right: 15px;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 22px;
+}
+
+.header-logo-disc {
+  font-size: 11px;
+}
+
+.btn {
+  border: none;
+  color: #d30d0d;
+  border-radius: 5px;
+  width: 200px;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
 }
 
 footer {
